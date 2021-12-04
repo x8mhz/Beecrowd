@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1001", "1001\1001.csproj", "{DC9AB95E-8918-4C02-B2A0-2CBA654365ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1002 _Area_do_Circulo", "1002 _Area_do_Circulo\1002 _Area_do_Circulo.csproj", "{79083B8F-89A2-436C-8664-521C3E683010}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DC9AB95E-8918-4C02-B2A0-2CBA654365ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC9AB95E-8918-4C02-B2A0-2CBA654365ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC9AB95E-8918-4C02-B2A0-2CBA654365ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79083B8F-89A2-436C-8664-521C3E683010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79083B8F-89A2-436C-8664-521C3E683010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79083B8F-89A2-436C-8664-521C3E683010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79083B8F-89A2-436C-8664-521C3E683010}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
