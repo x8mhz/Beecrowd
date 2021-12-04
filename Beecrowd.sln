@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1004_Produto_Simples", "100
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1005_Media_1", "1005_Media_1\1005_Media_1.csproj", "{AF88BBAC-016D-49DE-93B3-0C0AE1045C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1006_Media_2", "1006_Media_2\1006_Media_2.csproj", "{DDB2A510-8572-4AB2-9B8A-7C6493BA3765}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AF88BBAC-016D-49DE-93B3-0C0AE1045C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF88BBAC-016D-49DE-93B3-0C0AE1045C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF88BBAC-016D-49DE-93B3-0C0AE1045C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB2A510-8572-4AB2-9B8A-7C6493BA3765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB2A510-8572-4AB2-9B8A-7C6493BA3765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB2A510-8572-4AB2-9B8A-7C6493BA3765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB2A510-8572-4AB2-9B8A-7C6493BA3765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
