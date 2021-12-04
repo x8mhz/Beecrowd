@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1001", "1001\1001.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1002 _Area_do_Circulo", "1002 _Area_do_Circulo\1002 _Area_do_Circulo.csproj", "{79083B8F-89A2-436C-8664-521C3E683010}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1003_Soma_Simples", "1003_Soma_Simples\1003_Soma_Simples.csproj", "{C4ADA7C7-5AB5-4914-8073-F9A839EB2389}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{79083B8F-89A2-436C-8664-521C3E683010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79083B8F-89A2-436C-8664-521C3E683010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79083B8F-89A2-436C-8664-521C3E683010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4ADA7C7-5AB5-4914-8073-F9A839EB2389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4ADA7C7-5AB5-4914-8073-F9A839EB2389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4ADA7C7-5AB5-4914-8073-F9A839EB2389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4ADA7C7-5AB5-4914-8073-F9A839EB2389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
