@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1001", "1001\1001.csproj", "{DC9AB95E-8918-4C02-B2A0-2CBA654365ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1001", "1001\1001.csproj", "{DC9AB95E-8918-4C02-B2A0-2CBA654365ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1002 _Area_do_Circulo", "1002 _Area_do_Circulo\1002 _Area_do_Circulo.csproj", "{79083B8F-89A2-436C-8664-521C3E683010}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1002 _Area_do_Circulo", "1002 _Area_do_Circulo\1002 _Area_do_Circulo.csproj", "{79083B8F-89A2-436C-8664-521C3E683010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1003_Soma_Simples", "1003_Soma_Simples\1003_Soma_Simples.csproj", "{C4ADA7C7-5AB5-4914-8073-F9A839EB2389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1003_Soma_Simples", "1003_Soma_Simples\1003_Soma_Simples.csproj", "{C4ADA7C7-5AB5-4914-8073-F9A839EB2389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1004_Produto_Simples", "1004_Produto_Simples\1004_Produto_Simples.csproj", "{09BE0955-8215-47C4-9A49-60527EAF1230}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1004_Produto_Simples", "1004_Produto_Simples\1004_Produto_Simples.csproj", "{09BE0955-8215-47C4-9A49-60527EAF1230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1005_Media_1", "1005_Media_1\1005_Media_1.csproj", "{AF88BBAC-016D-49DE-93B3-0C0AE1045C0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1005_Media_1", "1005_Media_1\1005_Media_1.csproj", "{AF88BBAC-016D-49DE-93B3-0C0AE1045C0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1006_Media_2", "1006_Media_2\1006_Media_2.csproj", "{DDB2A510-8572-4AB2-9B8A-7C6493BA3765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1006_Media_2", "1006_Media_2\1006_Media_2.csproj", "{DDB2A510-8572-4AB2-9B8A-7C6493BA3765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1007_Diferenca", "1007_Diferenca\1007_Diferenca.csproj", "{E1EDB03F-EBBA-4EBD-B667-D6681D4C8740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1007_Diferenca", "1007_Diferenca\1007_Diferenca.csproj", "{E1EDB03F-EBBA-4EBD-B667-D6681D4C8740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1008_Salario", "1008_Salario\1008_Salario.csproj", "{DB1B7893-B57D-4F7B-95A2-0C8DDA550422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1008_Salario", "1008_Salario\1008_Salario.csproj", "{DB1B7893-B57D-4F7B-95A2-0C8DDA550422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1009_Salario_Com_Bonus", "1009_Salario_Com_Bonus\1009_Salario_Com_Bonus.csproj", "{4A7AA81C-9713-4841-B426-7C4BE814AE57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1009_Salario_Com_Bonus", "1009_Salario_Com_Bonus\1009_Salario_Com_Bonus.csproj", "{4A7AA81C-9713-4841-B426-7C4BE814AE57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1010_Calculo_Simples", "1010_Calculo_Simples\1010_Calculo_Simples.csproj", "{04BD56AB-2BB5-4327-9ABB-C406BF07875B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1010_Calculo_Simples", "1010_Calculo_Simples\1010_Calculo_Simples.csproj", "{04BD56AB-2BB5-4327-9ABB-C406BF07875B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1011_Esfera", "1011_Esfera\1011_Esfera.csproj", "{B2E41064-EC23-4E3C-97C2-21E3DB56F4E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{04BD56AB-2BB5-4327-9ABB-C406BF07875B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04BD56AB-2BB5-4327-9ABB-C406BF07875B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04BD56AB-2BB5-4327-9ABB-C406BF07875B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E41064-EC23-4E3C-97C2-21E3DB56F4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E41064-EC23-4E3C-97C2-21E3DB56F4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E41064-EC23-4E3C-97C2-21E3DB56F4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E41064-EC23-4E3C-97C2-21E3DB56F4E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
