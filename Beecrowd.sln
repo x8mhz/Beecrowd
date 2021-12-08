@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1010_Calculo_Simples", "101
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1011_Esfera", "1011_Esfera\1011_Esfera.csproj", "{B2E41064-EC23-4E3C-97C2-21E3DB56F4E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1012_Area", "1012_Area\1012_Area.csproj", "{F6E126D1-CA18-4B0A-BC3D-67E84FCCA381}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B2E41064-EC23-4E3C-97C2-21E3DB56F4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2E41064-EC23-4E3C-97C2-21E3DB56F4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2E41064-EC23-4E3C-97C2-21E3DB56F4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E126D1-CA18-4B0A-BC3D-67E84FCCA381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E126D1-CA18-4B0A-BC3D-67E84FCCA381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E126D1-CA18-4B0A-BC3D-67E84FCCA381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E126D1-CA18-4B0A-BC3D-67E84FCCA381}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
