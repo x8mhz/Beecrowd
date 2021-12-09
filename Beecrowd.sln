@@ -29,6 +29,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1012_Area", "1012_Area\1012
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1013_O_Maior", "1013_O_Maior\1013_O_Maior.csproj", "{B98B5E37-8E8E-4B95-8F85-32E51C862E11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1014_Consumo", "1014_Consumo\1014_Consumo.csproj", "{6038CFA1-195C-4210-B18F-C3A32673FD7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1015_Distancia_Entre_Dois_Pontos", "1015_Distancia_Entre_Dois_Pontos\1015_Distancia_Entre_Dois_Pontos.csproj", "{8F2BF2BD-9A29-41AE-97B9-C1791743463E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{B98B5E37-8E8E-4B95-8F85-32E51C862E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B98B5E37-8E8E-4B95-8F85-32E51C862E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B98B5E37-8E8E-4B95-8F85-32E51C862E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6038CFA1-195C-4210-B18F-C3A32673FD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6038CFA1-195C-4210-B18F-C3A32673FD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6038CFA1-195C-4210-B18F-C3A32673FD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6038CFA1-195C-4210-B18F-C3A32673FD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2BF2BD-9A29-41AE-97B9-C1791743463E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2BF2BD-9A29-41AE-97B9-C1791743463E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2BF2BD-9A29-41AE-97B9-C1791743463E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2BF2BD-9A29-41AE-97B9-C1791743463E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
