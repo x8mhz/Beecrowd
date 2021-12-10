@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1016_Distancia", "1016_Dist
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1017_Gasto_De_Combustivel", "1017_Gasto_De_Combustivel\1017_Gasto_De_Combustivel.csproj", "{9185B96B-122F-41ED-9283-137A6A70D74C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1018_Cedulas", "1018_Cedulas\1018_Cedulas.csproj", "{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{9185B96B-122F-41ED-9283-137A6A70D74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9185B96B-122F-41ED-9283-137A6A70D74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9185B96B-122F-41ED-9283-137A6A70D74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
