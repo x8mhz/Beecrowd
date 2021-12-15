@@ -33,11 +33,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1014_Consumo", "1014_Consum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1015_Distancia_Entre_Dois_Pontos", "1015_Distancia_Entre_Dois_Pontos\1015_Distancia_Entre_Dois_Pontos.csproj", "{8F2BF2BD-9A29-41AE-97B9-C1791743463E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1016_Distancia", "1016_Distancia\1016_Distancia.csproj", "{181AEDC7-262B-4AE5-B11A-316E91EDADAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1016_Distancia", "1016_Distancia\1016_Distancia.csproj", "{181AEDC7-262B-4AE5-B11A-316E91EDADAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1017_Gasto_De_Combustivel", "1017_Gasto_De_Combustivel\1017_Gasto_De_Combustivel.csproj", "{9185B96B-122F-41ED-9283-137A6A70D74C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1017_Gasto_De_Combustivel", "1017_Gasto_De_Combustivel\1017_Gasto_De_Combustivel.csproj", "{9185B96B-122F-41ED-9283-137A6A70D74C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1018_Cedulas", "1018_Cedulas\1018_Cedulas.csproj", "{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1018_Cedulas", "1018_Cedulas\1018_Cedulas.csproj", "{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAPContest_1_CruzamentoBloqueado", "SAPContest_1_CruzamentoBloqueado\SAPContest_1_CruzamentoBloqueado.csproj", "{65CD0C3D-E7BC-41C1-9F43-64A2401BE8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1019_Conversao_De_Tempo", "1019_Conversao_De_Tempo\1019_Conversao_De_Tempo.csproj", "{74AEA139-8861-4667-A0AF-4153639285BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B2E54E6-FA13-4CA4-B891-5B09C437DFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CD0C3D-E7BC-41C1-9F43-64A2401BE8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CD0C3D-E7BC-41C1-9F43-64A2401BE8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CD0C3D-E7BC-41C1-9F43-64A2401BE8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CD0C3D-E7BC-41C1-9F43-64A2401BE8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AEA139-8861-4667-A0AF-4153639285BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AEA139-8861-4667-A0AF-4153639285BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AEA139-8861-4667-A0AF-4153639285BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AEA139-8861-4667-A0AF-4153639285BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
