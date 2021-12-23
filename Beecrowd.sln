@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1018_Cedulas", "1018_Cedula
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAPContest_1_CruzamentoBloqueado", "SAPContest_1_CruzamentoBloqueado\SAPContest_1_CruzamentoBloqueado.csproj", "{65CD0C3D-E7BC-41C1-9F43-64A2401BE8B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1019_Conversao_De_Tempo", "1019_Conversao_De_Tempo\1019_Conversao_De_Tempo.csproj", "{74AEA139-8861-4667-A0AF-4153639285BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1019_Conversao_De_Tempo", "1019_Conversao_De_Tempo\1019_Conversao_De_Tempo.csproj", "{74AEA139-8861-4667-A0AF-4153639285BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1020_Idade_Em_Dias", "1020_Idade_Em_Dias\1020_Idade_Em_Dias.csproj", "{B47B70D2-D00C-467E-B044-BFEC280C1421}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{74AEA139-8861-4667-A0AF-4153639285BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74AEA139-8861-4667-A0AF-4153639285BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74AEA139-8861-4667-A0AF-4153639285BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47B70D2-D00C-467E-B044-BFEC280C1421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47B70D2-D00C-467E-B044-BFEC280C1421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47B70D2-D00C-467E-B044-BFEC280C1421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47B70D2-D00C-467E-B044-BFEC280C1421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
